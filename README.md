@@ -7,6 +7,7 @@ Here are some main points about me:
 
 ![teste img](C:\brumaandrade\programadora2.PNG)
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/brumaandrade/)](https://www.linkedin.com/in/brumaandrade/)
 
 - 🔭 I’m currently working on 
 🌱 I’m currently learning Python
