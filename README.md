@@ -1,9 +1,12 @@
+<h1 align="center"> Bruma R Andrade </h1>
 ### Hi there 👋
 
-<!--
-**brumaandrade/brumaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+It's great to have you here. 🙂
 
-Here are some ideas to get you started:
+Here are some main points about me:
+
+![teste img](C:\brumaandrade\programadora2.PNG)
+
 
 - 🔭 I’m currently working on 
 🌱 I’m currently learning Python
