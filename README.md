@@ -11,13 +11,9 @@ Here are some main points about me:
 
 ![Bruma's GitHub stats](https://github-readme-stats.vercel.app/api?username=brumaandrade&theme=cobalt&show_icons=true)
 
-- 🔭 I’m currently working on 
-🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Iniciando meu arquivo readme
+🌱 I’m currently learning Python, SQL and Statistics
+- 👯 I’m looking to collaborate on Non-profit organization programs
+- 💬 Ask me about Data intelligence and leadership
+- 😄 Pronouns: Her/she
+
+
