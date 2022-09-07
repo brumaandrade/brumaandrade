@@ -11,7 +11,7 @@ It's great to have you here. 🙂
 
 Here are some main points about me:
 
-🌱 I’m currently learning Python, SQL and Statistics
+- 🌱 I’m currently learning Python, SQL and Statistics
 - 👯 I’m looking to collaborate on Non-profit organization programs
 - 💬 Ask me about Data intelligence and leadership
 - 😄 Pronouns: Her/she
